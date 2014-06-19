@@ -1,0 +1,22 @@
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea
+
+target
+out
+.gradle
+*.MF
+*.class
+
+# eclipse project file
+.pmd
+.ruleset
+.settings
+.classpath
+.project
+build
+bin
+test-output
+.springBeans
